@@ -1,7 +1,8 @@
 # Hello World
 
 ```
-$ node index.js
+$ npm install 
+$ node -r esm index.js
 ```
 
 http://127.0.0.1:3000
