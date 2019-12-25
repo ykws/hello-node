@@ -2,7 +2,7 @@
 
 ```
 $ npm install 
-$ node -r esm index.js
+$ npm run serve
 ```
 
 http://127.0.0.1:3000
