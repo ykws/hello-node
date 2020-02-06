@@ -1,4 +1,17 @@
-# Hello World
+# Hello, Node
+
+## Install Node.js
+
+for example, use [n](https://github.com/tj/n)
+
+```
+$ brew install n
+$ n latest
+```
+
+## Hello World
+
+clone this repository, or refer to [this page](https://nodejs.org/en/about/).
 
 ```
 $ npm install 
