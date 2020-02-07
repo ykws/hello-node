@@ -6,7 +6,7 @@ for example, use [n](https://github.com/tj/n)
 
 ```
 $ brew install n
-$ n latest
+$ sudo n latest
 ```
 
 ## Hello World
